@@ -29,7 +29,7 @@ Specific areas of application for a data analyst could include:
 
 
 ## Sources of Data
-Our dataset contains two CSV files and one Excel file are available from www.kaggle.com.
+Our dataset contains two CSV files and one Excel file are available from [kaggle.com](https://www.kaggle.com/datasets/ebrahimelgazar/new-york-city-airbnb-market?resource=download&select=airbnb_room_type.xlsx).
 All files are located in the [Resources Folder](https://github.com/stharshine/bootcamp_project_2/tree/main/Resources) :
 
 <img width="559" alt="image" src="https://user-images.githubusercontent.com/105055655/214414838-4c312920-d6c0-468b-a778-89b8a6c347a2.png">
