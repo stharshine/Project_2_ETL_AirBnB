@@ -29,13 +29,31 @@ Specific areas of application for a data analyst could include:
 
 
 ## Sources of Data
-Our dataset contains two CSV files and one Excel file are available from [kaggle.com](https://www.kaggle.com/datasets/ebrahimelgazar/new-york-city-airbnb-market?resource=download&select=airbnb_room_type.xlsx).
-All files are located in the [Resources Folder](https://github.com/stharshine/bootcamp_project_2/tree/main/Resources) :
+Our dataset contains two CSV files and one Excel file are available from [kaggle](https://www.kaggle.com/datasets/ebrahimelgazar/new-york-city-airbnb-market?resource=download&select=airbnb_room_type.xlsx).
+All files are located in the [Resources Folder](https://github.com/stharshine/bootcamp_project_2/tree/main/Resources):
 
 <img width="559" alt="image" src="https://user-images.githubusercontent.com/105055655/214414838-4c312920-d6c0-468b-a778-89b8a6c347a2.png">
 
 
-## Required Setup
+## Required Setup and Project Libraries
+
+Throughout this project's timeline and to run the *notebook*, the following packages and libraries were installed:
+[Pandas](https://pandas.pydata.org/),
+
+[Numpy](https://numpy.org/doc/stable/index.html),
+
+[Datetime](https://docs.python.org/3/library/datetime.html),
+
+[SQLAlchemy](https://www.sqlalchemy.org/) , 
+
+[SQLite](https://www.sqlite.org/index.html) , 
+
+[Psycopg2](https://www.psycopg.org/),
+
+To connect to the PostgreSQL database you will need to add your PgAdmin 4 username and password to a config.py file
+
+
+## Relationship between datasets
 
 
 
