@@ -1,17 +1,16 @@
 # Project 2: Extract, Transform, and Load
 
-![airbnb_nyc](https://user-images.githubusercontent.com/105055655/214406866-453e5a7d-e477-4301-93b9-23f7cc500f22.jpg)
+![airbnb_nyc](https://user-images.githubusercontent.com/105055655/214406866-453e5a7d-e477-4301-93b9-23f7cc500f22.jpg) 
 
-Contents: 
-
-Project Proposal
-Goal of the ETL
-Sources of Data
-Required Setup
-Data Extraction
-Data Transformation
-Data Loading
-Collaborators
+### Contents: 
+- Project Proposal
+- Goal of the ETL
+- Sources of Data
+- Required Setup
+- Data Extraction
+- Data Transformation
+- Data Loading
+- Collaborators
 
 ## Project Proposal
 
@@ -51,9 +50,9 @@ Specific areas of application for a data analyst could include:
 
 
 ## Collaborators
-Simon Butler, 
-Priscila Castro, 
-Tharusha Heenatigala, 
-Tony Ng.
+- Simon Butler, 
+- Priscila Castro, 
+- Tharusha Heenatigala, 
+- Tony Ng.
 
 
