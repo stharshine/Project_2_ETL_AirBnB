@@ -50,7 +50,8 @@ Throughout this project's timeline and to run the *notebook*, the following pack
 
 The three datasets are united by the **listingid**, as you can see from the image below. 
 ![schema](https://user-images.githubusercontent.com/105055655/214422933-8d18ce25-9561-4692-879b-5c73f400e435.jpg)
-Despite the relationship seems simple, the presence of the primary key allows the extraction of numerous combninations of information, including the ones in the *Goals of ETL*
+
+Despite the relationship seems straightforward, the presence of such a powerful primary key allows the extraction of numerous combninations of information, including the ones in the *Goals of ETL*.
 
 ## Data Extraction
 
