@@ -1,6 +1,6 @@
 # Project #2: Extract, Transform, and Load
 
-Contents
+Contents:
 
 Project Proposal
 
