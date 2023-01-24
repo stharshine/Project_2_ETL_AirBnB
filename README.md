@@ -1,4 +1,4 @@
-# Project #2: Extract, Transform, and Load
+### Project #2: Extract, Transform, and Load
 
 Contents:
 
@@ -22,9 +22,9 @@ The chosen dataset’s have been extracted from three different sources of data:
 The goal of this project is to produce a dataset which can utilised in further research by data analysts, who may be exploring the idea of investing in Airbnb properties in New York and the possible financial gains from each type of property (private room or entrire apartment).
 
 Specific areas of application for a data analyst could include:
-$ Identifying the average price, per night, of an Airbnb listing in New York City
-$ Identifying the cost of a private room compared to the cost of an entire apartment, and therefore the financial gain. 
-$ Identifying the most luxurius and valuable boroughs within the City and the average difference in price between them.
+ Identifying the average price, per night, of an Airbnb listing in New York City
+ Identifying the cost of a private room compared to the cost of an entire apartment, and therefore the financial gain. 
+ Identifying the most luxurius and valuable boroughs within the City and the average difference in price between them.
 
 
 ## Sources of Data
