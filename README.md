@@ -1,5 +1,7 @@
 # Project 2: Extract, Transform, and Load
 
+![airbnb_nyc](https://user-images.githubusercontent.com/105055655/214406866-453e5a7d-e477-4301-93b9-23f7cc500f22.jpg)
+
 Contents:
 
 Project Proposal
