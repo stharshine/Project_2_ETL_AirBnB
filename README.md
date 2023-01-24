@@ -14,7 +14,7 @@
 
 ## Project Proposal
 
-The project focuses on the New York City Airbnb Market. 
+The project focuses on the New York City Airbnb Market, one of the most visited cities in the whole world and home of many Broadway enthusiasts.
 The chosen dataset’s have been extracted from three different sources of data: Personal Information of Airbnb hosts, Cost of Properties per Area and Room type. The data transformation process will be performed using Jupyter Notebook, and then be loaded into a PostgreSQL database preparing the data for further analysis to be performed.
 
 
@@ -39,23 +39,18 @@ All files are located in the [Resources Folder](https://github.com/stharshine/bo
 
 Throughout this project's timeline and to run the *notebook*, the following packages and libraries were installed:
 [Pandas](https://pandas.pydata.org/),
-
 [Numpy](https://numpy.org/doc/stable/index.html),
-
 [Datetime](https://docs.python.org/3/library/datetime.html),
-
-[SQLAlchemy](https://www.sqlalchemy.org/) , 
-
-[SQLite](https://www.sqlite.org/index.html) , 
-
-[Psycopg2](https://www.psycopg.org/),
-
-To connect to the PostgreSQL database you will need to add your PgAdmin 4 username and password to a config.py file
+[SQLAlchemy](https://www.sqlalchemy.org/), 
+[SQLite](https://www.sqlite.org/index.html), 
+[Psycopg2](https://www.psycopg.org/).
 
 
 ## Relationship between datasets
 
-
+The three datasets are united by the **listingid**, as you can see from the image below. 
+![schema](https://user-images.githubusercontent.com/105055655/214422933-8d18ce25-9561-4692-879b-5c73f400e435.jpg)
+Despite the relationship seems simple, the presence of the primary key allows the extraction of numerous combninations of information, including the ones in the *Goals of ETL*
 
 ## Data Extraction
 
