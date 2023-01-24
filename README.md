@@ -3,19 +3,12 @@
 Contents:
 
 Project Proposal
-
 Goal of the ETL
-
 Sources of Data
-
 Required Setup
-
 Data Extraction
-
 Data Transformation
-
 Data Loading
-
 Collaborators
 
 ## Project Proposal
@@ -34,5 +27,18 @@ How does the average price of an Airbnb listing, per month, compare to the priva
 How many adverts are for private rooms?
 How do Airbnb listing prices compare across the five NYC boroughs?
 
+
+Sources of Data
+Required Setup
+Data Extraction
+Data Transformation
+Data Loading
+
+
+## Collaborators
+Simon Butler, 
+Priscila Castro, 
+Tharusha Heenatigala, 
+Tony Ng.
 
 
