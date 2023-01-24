@@ -13,7 +13,7 @@
 #Project Proposal
 
 #The project focuses on the New York Airbnb Market. 
-#The chosen dataset’s have been extracted from two different sources of data: Airbnb , and Vaccine Stocks. The data transformation process will be performed using Jupyter Notebook, and then be loaded into a PostgreSQL database preparing the data for further analysis to be performed.
+#The chosen dataset’s have been extracted from three different sources of data: Personal Information of Airbnb hosts, Cost of Properties per Area and Room type. The data transformation process will be performed using Jupyter Notebook, and then be loaded into a PostgreSQL database preparing the data for further analysis to be performed.
 
 
 
