@@ -30,6 +30,7 @@ Specific areas of application for a data analyst could include:
 
 ## Sources of Data
 Our dataset contains three CSV files are available from [kaggle](https://www.kaggle.com/datasets/ebrahimelgazar/new-york-city-airbnb-market?resource=download&select=airbnb_room_type.xlsx).
+
 All files are located in the [Resources Folder](https://github.com/stharshine/bootcamp_project_2/tree/main/Resources):
 
 <img width="559" alt="image" src="https://user-images.githubusercontent.com/105055655/214414838-4c312920-d6c0-468b-a778-89b8a6c347a2.png">
@@ -56,11 +57,11 @@ Despite the relationship seems straightforward, the presence of such a powerful 
 ## Data Extraction
 
 The three CSV filesgot got converted into panda DataFrames.
-*type_df_1* shows all the room types, their costs and their description.
+*type_df* shows all the room types, their costs and their description.
 
-<img width="354" alt="image" src="https://user-images.githubusercontent.com/105055655/214677001-eb3590d1-3622-4693-8bb7-ea4bb65ba4eb.png">
+<img width="328" alt="image" src="https://user-images.githubusercontent.com/105055655/214677814-ba26379a-21e9-4bb0-a45b-8f3ff5a37d0a.png">
 
-*price_df* shows all the property costs per night, the area and the borough.
+*price_df* shows all the property costs per night. As the location was a combination of both borough and area(called neighbourhood), the data was transformed and separated into two different section, the area and the borough.
 
 <img width="255" alt="image" src="https://user-images.githubusercontent.com/105055655/214676807-e1cc61f9-724e-4491-bea2-c8e99f5cde72.png">
 
@@ -68,10 +69,19 @@ The three CSV filesgot got converted into panda DataFrames.
 
 <img width="366" alt="image" src="https://user-images.githubusercontent.com/105055655/214676604-853b6971-a5e6-404e-8899-bde0d30d2676.png">
 
+Within all the three datasets, listing_id was chosen as primary key.
 
 ## Data Transformation
 
+Once all the datasets have been defined, in addition to the previous transformation, *type_df* was tranformed as well.
+In order to create a clean and legible dataset, all the data in *type_df* has to be converted. 
+Observing the following image, it is possible to see that the different property types were written in a variety of styles. Styles that create differences when analysing the data.
 
+<img width="377" alt="image" src="https://user-images.githubusercontent.com/105055655/214683605-f91129f7-8484-4744-aa3f-b213387669fd.png"
+     
+The next step was to create a new and clean database called *type_df_1* which can be observed in the image below.
+
+     <img width="348" alt="image" src="https://user-images.githubusercontent.com/105055655/214684123-6d41e288-fee8-49be-9c3e-2a9b007d88cc.png">
 
 
 ## Data Loading
