@@ -12,4 +12,4 @@ LAST_REVIEW DATE NOT NULL
 );
 
 -- Query to check successful load
-SELECT * FROM PROPERTIES:
+SELECT * FROM PROPERTIES;
