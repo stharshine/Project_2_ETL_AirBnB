@@ -89,6 +89,12 @@ Once all the data was clean and ready, it was then loaded into SQL.
 
 PostgreSQL tables were then created on the Query tool on pgAdmin, as shown in the image **below**
 
+<img width="359" alt="image" src="https://user-images.githubusercontent.com/105055655/214698172-68ef07ac-0c64-44f1-a8f7-05eab8be9699.png">
+
+
+
+<img width="648" alt="image" src="https://user-images.githubusercontent.com/105055655/214698260-4eea1969-9bf7-4336-a3c7-a134c228cca0.png">
+
 After importing the CSV datasets and confirming the successful connection with the server.
 
 
