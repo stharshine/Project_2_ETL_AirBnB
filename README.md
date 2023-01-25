@@ -55,9 +55,19 @@ Despite the relationship seems straightforward, the presence of such a powerful 
 
 ## Data Extraction
 
-Three CSV filesgot got converted into panda DataFrames.
+The three CSV filesgot got converted into panda DataFrames.
+*type_df_1* shows all the room types, their costs and their description.
 
-Dataframes are named as manufacturer and stocks_df. All the columns are listed for both Dataframes. manufacturer columns are following
+<img width="354" alt="image" src="https://user-images.githubusercontent.com/105055655/214677001-eb3590d1-3622-4693-8bb7-ea4bb65ba4eb.png">
+
+*price_df* shows all the property costs per night, the area and the borough.
+
+<img width="255" alt="image" src="https://user-images.githubusercontent.com/105055655/214676807-e1cc61f9-724e-4491-bea2-c8e99f5cde72.png">
+
+*review_df* shows all the property hosts and their last review date.
+
+<img width="366" alt="image" src="https://user-images.githubusercontent.com/105055655/214676604-853b6971-a5e6-404e-8899-bde0d30d2676.png">
+
 
 ## Data Transformation
 
