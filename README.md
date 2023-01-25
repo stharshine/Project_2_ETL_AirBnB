@@ -49,7 +49,7 @@ Throughout this project's timeline and to run the *notebook*, the following pack
 
 ## Relationship between datasets
 
-The three datasets are united by the **listingid**, as you can see from the image below. 
+The three datasets are united by the *listingid*, as you can see from the image below. 
 ![schema](https://user-images.githubusercontent.com/105055655/214422933-8d18ce25-9561-4692-879b-5c73f400e435.jpg)
 
 Despite the relationship seems straightforward, the presence of such a powerful primary key allows the extraction of numerous combninations of information, including the ones in the *Goals of ETL*.
@@ -87,14 +87,16 @@ Once all the data was clean and ready, it was then loaded into SQL.
 
 ## Data Loading
 
-pgAdmin was used to create a PostgreSQL table that included the headers (table names) from the dataframe.
+PostgreSQL tables were then created on the Query tool on pgAdmin, as shown in the image **below**
+
+After importing the CSV datasets and confirming the successful connection with the server.
 
 
 
 ## Collaborators
-- Simon Butler, 
-- Priscila Castro, 
-- Tharusha Heenatigala, 
-- Tony Ng.
+- [Tharusha Heenatigala](https://github.com/stharshine)
+- Simon Butler
+- Priscila Castro
+- Tony Ng
 
 
