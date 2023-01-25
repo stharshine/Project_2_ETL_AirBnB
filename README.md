@@ -77,15 +77,17 @@ Once all the datasets have been defined, in addition to the previous transformat
 In order to create a clean and legible dataset, all the data in *type_df* has to be converted. 
 Observing the following image, it is possible to see that the different property types were written in a variety of styles. Styles that create differences when analysing the data.
 
-<img width="377" alt="image" src="https://user-images.githubusercontent.com/105055655/214683605-f91129f7-8484-4744-aa3f-b213387669fd.png"
-     
+<img width="656" alt="image" src="https://user-images.githubusercontent.com/105055655/214684811-0812e709-8834-45a6-8d3a-574d61f480d9.png">
+
 The next step was to create a new and clean database called *type_df_1* which can be observed in the image below.
 
-     <img width="348" alt="image" src="https://user-images.githubusercontent.com/105055655/214684123-6d41e288-fee8-49be-9c3e-2a9b007d88cc.png">
+<img width="347" alt="image" src="https://user-images.githubusercontent.com/105055655/214684502-1f8288b0-6b76-4106-9c43-4af5fe4e1512.png">
 
+Once all the data was clean and ready, it was then loaded into SQL.
 
 ## Data Loading
 
+pgAdmin was used to create a PostgreSQL table that included the headers (table names) from the dataframe.
 
 
 
