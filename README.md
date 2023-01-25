@@ -4,13 +4,13 @@
 
 ## Contents: 
 - [Project Proposal](#Project-Proposal)
-- Goal of the ETL
-- Sources of Data
-- Required Setup
-- Data Extraction
-- Data Transformation
-- Data Loading
-- Collaborators
+- [Goal of the ETL](#Goal-of-the-ETL)
+- [Sources of Data](#Sources-of-Data)
+- [Required Setup](#Required-Setup)
+- [Data Extraction](#Data-Extraction)
+- [Data Transformation](#Data-Transformation)
+- [Data Loading](#Data-Loading)
+- [Collaborators](#Collaborators)
 
 ## Project Proposal
 
