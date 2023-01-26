@@ -11,6 +11,7 @@
 - [Data Transformation](#Data-Transformation)
 - [Data Loading](#Data-Loading)
 - [Collaborators](#Collaborators)
+- [Next Steps](#Next-Steps)
 
 ## Project Proposal
 
@@ -85,6 +86,8 @@ The next step was to create a new and clean database called *type_df_1* which ca
 
 Once all the data was clean and ready, it was then loaded into SQL.
 
+Ideally, it would have been excellent to clean the *price_df* dataframe, and separate the price as currency and value, in order to make the analysis more streamline and clean.
+
 ## Data Loading
 
 PostgreSQL tables were then created on the Query tool on pgAdmin. An example can be shown in the image below where the code is creating the ["airbnb_review"](https://github.com/stharshine/bootcamp_project_2/blob/main/Resources/airbnb_host_info.csv) dataset.
@@ -109,6 +112,11 @@ The images below show two of the databases complete with infomation, ready to be
 <img width="544" alt="image" src="https://user-images.githubusercontent.com/105055655/214943637-0430fedd-6b07-407d-8fb1-25aff29191c9.png">
 
 <img width="593" alt="image" src="https://user-images.githubusercontent.com/105055655/214943745-87be1574-fe4e-4280-9b22-7fa6451aa659.png">
+
+## Next Steps
+The next steps would have included:
+- Analysing the crime rate per borough within New York City
+- Average price, per night, of an Airbnb listing in New York City
 
 
 ## Collaborators
