@@ -2,7 +2,7 @@
 CREATE TABLE "airbnb_review" (
     "listing_id" int   NOT NULL,
     "host_name" varchar(30)   NOT NULL,
-    "last_review" date   NOT NULL,
+    "last_review" varchar (100)   NOT NULL,
     CONSTRAINT "pk_air_bnb_review" PRIMARY KEY (
         "listing_id"
     )
