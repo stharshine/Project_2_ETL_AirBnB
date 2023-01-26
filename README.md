@@ -87,7 +87,7 @@ Once all the data was clean and ready, it was then loaded into SQL.
 
 ## Data Loading
 
-PostgreSQL tables were then created on the Query tool on pgAdmin. An example can be shown in the image below where the code is creating the "airbnb_review" dataset.
+PostgreSQL tables were then created on the Query tool on pgAdmin. An example can be shown in the image below where the code is creating the ["airbnb_review"](https://github.com/stharshine/bootcamp_project_2/blob/main/Resources/airbnb_host_info.csv) dataset.
 
 <img width="359" alt="image" src="https://user-images.githubusercontent.com/105055655/214698172-68ef07ac-0c64-44f1-a8f7-05eab8be9699.png">
 
