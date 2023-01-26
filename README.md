@@ -115,6 +115,6 @@ The images below show two of the databases complete with infomation, ready to be
 - [Tharusha Heenatigala](https://github.com/stharshine)
 - Simon Butler
 - Priscila Castro
-- Tony Ng
+- [Tony Ng](https://github.com/TonyHHNg)
 
 
