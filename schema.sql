@@ -20,7 +20,7 @@ CREATE TABLE "airbnb_price" (
 
 CREATE TABLE "airbnb_room_type" (
     "listing_id" int   NOT NULL,
-    "description" varchar(60)   NOT NULL,
+    "description" varchar(200))   NOT NULL,
     "room_type" varchar(60)   NOT NULL,
     CONSTRAINT "pk_airbnb_room_type" PRIMARY KEY (
         "listing_id"
