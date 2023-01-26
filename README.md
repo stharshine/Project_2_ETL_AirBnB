@@ -87,11 +87,11 @@ Once all the data was clean and ready, it was then loaded into SQL.
 
 ## Data Loading
 
-PostgreSQL tables were then created on the Query tool on pgAdmin, as shown in the image **below**
+PostgreSQL tables were then created on the Query tool on pgAdmin. An example can be shown in the image below where the code is creating the "airbnb_review" dataset.
 
 <img width="359" alt="image" src="https://user-images.githubusercontent.com/105055655/214698172-68ef07ac-0c64-44f1-a8f7-05eab8be9699.png">
 
-
+Afterwards, the foreign key were created as the example on the image below, to build a relationship between datasets.
 
 <img width="648" alt="image" src="https://user-images.githubusercontent.com/105055655/214698260-4eea1969-9bf7-4336-a3c7-a134c228cca0.png">
 
