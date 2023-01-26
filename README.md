@@ -97,7 +97,7 @@ Afterwards, the foreign key were created as the example on the image below, to b
 
 After importing the CSV datasets and confirming the successful connection with the server.
 
-As iy can be seen from the imahes below, the localhost connection to a PostgreSQL server was successfully created. 
+As it can be seen from the imahes below, the localhost connection to a PostgreSQL server was successfully created. 
 
 <img width="615" alt="image" src="https://user-images.githubusercontent.com/105055655/214919479-fbb92c54-3637-43d8-9a07-699707473b8f.png">
 
