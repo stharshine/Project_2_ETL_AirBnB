@@ -105,6 +105,10 @@ As it can be seen from the imahes below, the localhost connection to a PostgreSQ
 <img width="711" alt="image" src="https://user-images.githubusercontent.com/105055655/214919519-5ba9dd3c-dbf0-4d59-9410-bd757b05459f.png">
 
 
+<img width="544" alt="image" src="https://user-images.githubusercontent.com/105055655/214943637-0430fedd-6b07-407d-8fb1-25aff29191c9.png">
+
+<img width="593" alt="image" src="https://user-images.githubusercontent.com/105055655/214943745-87be1574-fe4e-4280-9b22-7fa6451aa659.png">
+
 
 ## Collaborators
 - [Tharusha Heenatigala](https://github.com/stharshine)
