@@ -113,9 +113,11 @@ The images below show two of the databases complete with infomation, ready to be
 
 <img width="593" alt="image" src="https://user-images.githubusercontent.com/105055655/214943745-87be1574-fe4e-4280-9b22-7fa6451aa659.png">
 
+Unfortunately, there was an issue with loading the aribnb_review database.
+
 ## Next Steps
 The next steps would have included:
-- Analysing the crime rate per borough within New York City
+- Analysing the crime rate per borough within New York City.
 - Average price, per night, of an Airbnb listing in New York City
 
 
